@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ag-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#020617"/>
+  <path d="M96 236L256 104L416 236V400C416 413.255 405.255 424 392 424H120C106.745 424 96 413.255 96 400V236Z"
+        fill="url(#ag-grad)"/>
+  <path d="M208 424V296H304V424" fill="#020617"/>
+  <circle cx="190" cy="254" r="18" fill="#e5e7eb"/>
+  <text x="256" y="470" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="64" fill="#e5e7eb">AG</text>
+</svg>
+
+
